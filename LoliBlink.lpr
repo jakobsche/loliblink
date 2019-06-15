@@ -20,10 +20,11 @@ begin
   try
     BinaryOut.Address := 17;
     Status := False;
+    x := #0;
     WriteLn('A LED at GPIO port 17 should blink now with about 1 Hz');
     WriteLn('Press "q" to exit!');
     repeat
-      x := ReadKey;
+      if KeyPressed then x := ReadKey;
       Status := not Status;
       BinaryOut.Value := Status;
       Status := not Status;

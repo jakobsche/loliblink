@@ -8,8 +8,8 @@
         <Filename Value="LoliBlink.lpr"/>
         <IsPartOfProject Value="True"/>
         <IsVisibleTab Value="True"/>
-        <TopLine Value="18"/>
-        <CursorPos X="64" Y="23"/>
+        <TopLine Value="12"/>
+        <CursorPos Y="24"/>
         <UsageCount Value="20"/>
         <Loaded Value="True"/>
       </Unit>
@@ -70,10 +70,6 @@
         </Mode0>
       </Modes>
     </RunParams>
-    <HistoryLists Count="3">
-      <List0 Name="WorkingDirectory" Type="File" Count="1"/>
-      <List1 Name="LaunchingApplication" Type="File" Count="1"/>
-      <List2 Name="CommandLineParameters" Count="1"/>
-    </HistoryLists>
+    <HistoryLists Count="3"/>
   </ProjectSession>
 </CONFIG>

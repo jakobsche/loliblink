@@ -27,7 +27,6 @@ begin
       if KeyPressed then x := ReadKey;
       Status := not Status;
       BinaryOut.Value := Status;
-      Status := not Status;
       Sleep(500)
     until x = 'q';
   finally

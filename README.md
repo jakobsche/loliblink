@@ -10,4 +10,4 @@ To see the source code view the file LoliBlink.lpr.
 
 To edit the source code, open the file LoliBlink.lpi as project in Lazarus.
 
-If you want to compile the source code yourself, you have to add packages to the project. Read the message Window after a compile to see, what is missed.
+If you want to compile the source code yourself, you have to add packages to the project. Read the message Window after a compile to see, what is missed. Get the packages here or ask me.
